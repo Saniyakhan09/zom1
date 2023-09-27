@@ -1,0 +1,20 @@
+stylesan.css
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+
+}
+.hero__section{
+    background-image: url("C:\Users\saniya\Downloads\Nav.jpg");
+    background-size:cover;
+    background-position: center;
+    color: black;
+}
+.heading{
+     background-color: black;
+}
+.link{
+    color: black;
+}
